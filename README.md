@@ -64,3 +64,9 @@ At the end of each run, `bexif` gives you an exact summary of what it erased:
 - **ffmpeg** *(Optional)* — Only needed if you want to erase video containers.
 
 ---
+
+## Auditing the Code
+
+Don't trust running scripts directly from a URL? **Doubt it? Fork it.** 
+
+The code is intentionally completely open, dependency-free, and written in standard Python. You are highly encouraged to audit the repository, clone it locally, or modify the logic to suit your own needs. You're welcome...
